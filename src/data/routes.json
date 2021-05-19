@@ -1,3 +1,4 @@
 {
-  "/reports/:reportDataId/data": "/report_data?report_id=:reportDataId"
+  "/reports/:reportDataId/data/:id": "/report_data/:id",
+  "/reports/:reportDataId/data": "/report_data?reportId=:reportDataId"
 }
