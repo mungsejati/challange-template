@@ -14,7 +14,7 @@
   "report_data": [
     {
       "id": 1,
-      "report_id": 1,
+      "reportId": 1,
       "date": "01-01-2021",
       "info": "Saldo awal",
       "debit": 21000000,
@@ -22,7 +22,7 @@
     },
     {
       "id": 2,
-      "report_id": 2,
+      "reportId": 2,
       "date": "02-01-2021",
       "info": "Saldo awal",
       "debit": 21000000,
