@@ -15,6 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "start-api": "node_modules/json-server/lib/cli/bin.js --watch src/data/db.json --port 3001 --routes src/data/routes.json",
+    "start-api:windows": "node .\\node_modules\\json-server\\lib\\cli\\bin.js --watch src/data/db.json --port 3001 --routes src/data/routes.json",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
